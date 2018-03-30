@@ -28,6 +28,7 @@
     "autoprefixer": "^7.1.2",
     "babel-core": "^6.25.0",
     "lodash": "^4.17.4",
+    "moment": "^2.20.1",
     "vue-router": "^2.7.0"
   }
 }

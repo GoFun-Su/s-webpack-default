@@ -6,7 +6,7 @@
 
 <template>
     <div class="view">
-         <h1>你23好cwwwc</h1>
+         <h1>你23好cwwwcretertretttttttttttttte</h1>
        
     </div>
 </template>
